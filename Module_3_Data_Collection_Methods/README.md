@@ -1,4 +1,4 @@
-# Module 2: Data Collection Methods
+# Module 3: Data Collection Methods
 
 API harvesting, web scraping, data donations, ... write intro more.
 
