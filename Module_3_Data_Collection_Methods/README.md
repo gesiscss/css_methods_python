@@ -6,4 +6,4 @@ This module focuses on the two main approaches to data collection: API harvestin
 
 Session 3.1's content is collecting social media data such as Twitter
 
-Session 3.2's content is scraing data from news websites (?) Wikipedia (?)
+Session 3.2's content is scraping data from news websites (?) Wikipedia (?)
