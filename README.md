@@ -16,7 +16,7 @@ This repository will grow to house a full introductory course consisting of self
 
 ## Module 4: Data analysis methods
 ### Session 8: Statistics & machine learning: Supervised learning
-### Session 9: Statistics & machine learning: Supervised learning (Text data)
+### Session 9: Statistics & machine learning: Supervised text mining
 ### Session 10: Statistics & machine learning: Unsupervised learning
 ### Session 11: Network analysis
 
