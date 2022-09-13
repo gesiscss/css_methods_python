@@ -3,26 +3,26 @@ This repository will grow to house a full introductory course consisting of self
 
 Notebooks are developed for Anaconda 2022.05 which can be downloaded [here](https://repo.anaconda.com/archive/).
 
-## [Module 1: Introduction](Module_1_CSS_Methodology)
-### [Session 1: CSS methodology / Computing environment](Module_1_CSS_Methodology/Session_1_How_and_where_to_start.ipynb)
-### Session 2: Data handling and visualization
+## [Section A: Introduction](a_introduction/)
+### [Session 1: Computing environment](a_introduction/1_computing_environment.ipynb)
+### [Session 2: Data handling and visualization](a_introduction/2_data_handling_and_visualization.ipynb)
 
-## [Module 2: Data collection methods](Module_3_Data_Collection_Methods/)
-### [Session 3: API harvesting](Module_3_Data_Collection_Methods/Session_3.1_API_harvesting.ipynb)
-### [Session 4: Web scraping](Module_3_Data_Collection_Methods/Session_3.2_Web_scraping.ipynb)
+## [Section B: Data collection methods](b_data_collection_methods/)
+### [Session 3: API harvesting](b_data_collection_methods/3_api_harvesting.ipynb)
+### [Session 4: Web scraping](b_data_collection_methods/4_web_scraping.ipynb)
 
-## Module 3: Data preprocessing methods
-### Session 5: Network construction and visualization
+## [Section C: Data preprocessing methods](c_data_preprocessing_methods/)
+### [Session 5: Network construction and visualization](c_data_preprocessing_methods/5_network_construction_and_visualization.ipynb)
 ### Session 6: Natural Language Processing
 ### Session 7: Agent classification
 
-## Module 4: Data analysis methods
-### Session 8: Statistics & machine learning: Supervised learning
-### Session 9: Statistics & machine learning: Supervised text mining
-### Session 10: Statistics & machine learning: Unsupervised learning
+## Section D: Data analysis methods
+### Session 8: Statistics & machine learning -- Supervised learning
+### Session 9: Statistics & machine learning -- Supervised text mining
+### Session 10: Statistics & machine learning -- Unsupervised learning
 ### Session 11: Network analysis
 
-## Module 5: Use cases
+## Section E: Use cases
 ### Session 12: tbd
 ### Session 13: tbd
 ### Session 14: tbd
