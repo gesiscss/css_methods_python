@@ -3,6 +3,8 @@ This repository will grow to house a full introductory course consisting of self
 
 Notebooks are developed for Anaconda 2022.05 which can be downloaded [here](https://repo.anaconda.com/archive/).
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gesiscss/css_methods_python/HEAD)
+
 ## [Section A: Introduction](a_introduction/)
 ### [Session 1: Computing environment](a_introduction/1_computing_environment.ipynb)
 ### [Session 2: Data handling and visualization](a_introduction/2_data_handling_and_visualization.ipynb)
