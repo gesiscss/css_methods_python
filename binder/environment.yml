@@ -1,0 +1,16 @@
+name: css_methods_python_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9.12
+  - beautifulsoup4=4.11.1
+  - matplotlib=3.5.1
+  - networkx=2.7.1
+  - numpy=1.21.5
+  - pandas=1.4.2
+  - pip=21.2.4
+  - scikit-learn=1.0.2
+  - scipy=1.7.3
+  - pip:
+    - feedparser=6.0.10
