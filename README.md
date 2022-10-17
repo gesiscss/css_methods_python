@@ -15,7 +15,7 @@ Notebooks are developed for Anaconda 2022.05 which can be downloaded [here](http
 
 ### [Section C: Data preprocessing methods](c_data_preprocessing_methods/)
 #### [Session 5: Network construction and visualization](c_data_preprocessing_methods/5_network_construction_and_visualization.ipynb)
-#### Session 6: Natural Language Processing(c_data_preprocessing_methods/6_Natural_Language_Processing.ipynb)
+#### [Session 6: Natural Language Processing](c_data_preprocessing_methods/6_Natural_Language_Processing.ipynb)
 #### Session 7: Agent characterization
 
 ### Section D: Data analysis methods
