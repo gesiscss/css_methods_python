@@ -18,7 +18,7 @@ Notebooks are developed for Anaconda 2022.05 which can be downloaded [here](http
 #### [Session 6: Natural Language Processing](c_data_preprocessing_methods/6_Natural_Language_Processing.ipynb)
 
 ### Section D: Data analysis methods
-#### Session 7: Unsupervised machine learning
-#### Session 8: Statistics & supervised machine learning
-#### Session 9: Supervised text mining
-#### Session 10: Network analysis
+#### Session 7: Network analysis
+#### Session 8: Unsupervised machine learning
+#### Session 9: Statistics & supervised machine learning
+#### Session 10: Supervised text mining
