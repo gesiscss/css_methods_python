@@ -21,4 +21,3 @@ Notebooks are developed for Anaconda 2022.05 which can be downloaded [here](http
 #### Session 7: Network analysis
 #### Session 8: Unsupervised machine learning
 #### Session 9: Statistics & supervised machine learning
-#### Session 10: Supervised text mining
