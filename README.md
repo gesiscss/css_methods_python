@@ -1,7 +1,7 @@
 # Introduction to Computational Social Science methods with Python
 This repository will grow to house a full introductory course consisting of self-explanatory teaching modules in the Jupyter Notebook format. The final course will consist of five sections with 14 sessions that will allow easy exploration of data with a minimum of coding skills, but gradually lead participants to acquire more coding skills in Python. These resources are provided as part of the [Social ComQuant](https://socialcomquant.ku.edu.tr/) project.
 
-Notebooks are developed for Anaconda 2022.05 which can be downloaded [here](https://repo.anaconda.com/archive/).
+Notebooks are developed for Anaconda 2022.10 which can be downloaded [here](https://repo.anaconda.com/archive/).
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gesiscss/css_methods_python/HEAD)
 
