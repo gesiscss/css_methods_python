@@ -6,7 +6,6 @@ dependencies:
   - beautifulsoup4=4.11.1
   - feedparser=6.0.8
   - gensim=4.1.2
-  - ipython=7.31.1
   - ipywidgets=7.6.5
   - matplotlib=3.5.2
   - networkx=2.8.4
