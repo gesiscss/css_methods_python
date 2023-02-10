@@ -21,6 +21,7 @@ dependencies:
   - selenium=3.141.0
   - spacy=3.3.1
   - sqlalchemy=1.4.39
+  - statsmodels=0.13.2
   - xlsxwriter=3.0.3
   - pip:
     - powerlaw==1.5
