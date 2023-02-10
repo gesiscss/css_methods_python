@@ -1,0 +1,6 @@
+column names:
+	- timestamp
+	- calling user
+	- call recipient
+	- duration (-1 means a missed call)
+

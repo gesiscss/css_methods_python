@@ -1,0 +1,9 @@
+column names:
+	- timestamp
+	- user A 
+	- user B 
+	- received signal strength
+
+Notes:
+Empty scans are marked with user B = -1 and RSSI = 0
+Scans of devices outside of the experiment are marked with user B = -2. All non-experiment devices are given the same ID.
