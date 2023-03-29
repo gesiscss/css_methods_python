@@ -4,24 +4,26 @@ This repository will grow to house a full introductory course consisting of self
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gesiscss/css_methods_python/HEAD)
 
-#### [Section A: Introduction](a_introduction/)
-##### [Session 1: Computing infrastructure](a_introduction/1_computing_infrastructure.ipynb)
-##### [Session 2: Data management with Pandas](a_introduction/2_data_management_with_pandas.ipynb)
-##### [Session 3: Scientific computing and data visualization](a_introduction/3_scientific_computing_and_data_visualization.ipynb)
+## Course structure
 
-#### [Section B: Data collection methods](b_data_collection_methods/)
-##### [Session 1: API harvesting](b_data_collection_methods/3_api_harvesting.ipynb)
-##### [Session 2: Data parsing and static web scraping](b_data_collection_methods/4_web_scraping.ipynb)
-##### Session 3: Dynamic web scraping
+**Section A**: [Introduction](a_introduction/)
+- Session 1: [Computing infrastructure](a_introduction/1_computing_infrastructure.ipynb)
+- Session 2: [Data management with Pandas](a_introduction/2_data_management_with_pandas.ipynb)
+- Session 3: [Scientific computing and data visualization](a_introduction/3_scientific_computing_and_data_visualization.ipynb)
 
-#### [Section C: Data preprocessing methods](c_data_preprocessing_methods/)
-##### [Session 1: Network construction and visualization I](c_data_preprocessing_methods/5_network_construction_and_visualization.ipynb)
-##### Session 2: Network construction and visualization II
-##### [Session 3: Natural Language Processing](c_data_preprocessing_methods/6_Natural_Language_Processing.ipynb)
+**Section B**: [Data collection methods](b_data_collection_methods/)
+- Session 1: [API harvesting](b_data_collection_methods/3_api_harvesting.ipynb)
+- Session 2: [Data parsing and static web scraping](b_data_collection_methods/4_web_scraping.ipynb)
+- Session 3: Dynamic web scraping
 
-#### [Section D: Data analysis methods](d_data_analysis_methods/)
-##### Session 1: [Network analysis I](d_data_analysis_methods/7_network_analysis.ipynb)
-##### Session 2: Network analysis II
-##### Session 3: [Unsupervised machine learning with structured data](d_data_analysis_methods/8_unsupervised_machine_learning.ipynb)
-##### Session 4: Topic modeling
-##### Session 5: [Statistics & supervised machine learning](d_data_analysis_methods/9_statistics_and_supervised_machine_learning.ipynb)
+**Section C**: [Data preprocessing methods](c_data_preprocessing_methods/)
+- Session 1: [Network construction and visualization I](c_data_preprocessing_methods/5_network_construction_and_visualization.ipynb)
+- Session 2: Network construction and visualization II
+- Session 3: [Natural Language Processing](c_data_preprocessing_methods/6_Natural_Language_Processing.ipynb)
+
+**Section D**: [Data analysis methods](d_data_analysis_methods/)
+- Session 1: [Network analysis I](d_data_analysis_methods/7_network_analysis.ipynb)
+- Session 2: Network analysis II
+- Session 3: [Unsupervised machine learning with structured data](d_data_analysis_methods/8_unsupervised_machine_learning.ipynb)
+- Session 4: Topic modeling
+- Session 5: [Statistics & supervised machine learning](d_data_analysis_methods/9_statistics_and_supervised_machine_learning.ipynb)
