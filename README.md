@@ -7,7 +7,7 @@ This repository will grow to house a full introductory course consisting of self
 #### [Section A: Introduction](a_introduction/)
 ##### [Session 1: Computing infrastructure](a_introduction/1_computing_infrastructure.ipynb)
 ##### [Session 2: Data management with Pandas](a_introduction/2_data_management_with_pandas.ipynb)
-##### [Session 2: Scientific computing and data visualization](a_introduction/3_scientific_computing_and_data_visualization.ipynb)
+##### [Session 3: Scientific computing and data visualization](a_introduction/3_scientific_computing_and_data_visualization.ipynb)
 
 #### [Section B: Data collection methods](b_data_collection_methods/)
 ##### [Session 1: API harvesting](b_data_collection_methods/3_api_harvesting.ipynb)
@@ -22,6 +22,6 @@ This repository will grow to house a full introductory course consisting of self
 #### [Section D: Data analysis methods](d_data_analysis_methods/)
 ##### Session 1: [Network analysis I](d_data_preprocessing_methods/7_network_analysis.ipynb)
 ##### Session 2: Network analysis II
-##### Session 3: [Unsupervised machine learning with strutured data](d_data_preprocessing_methods/8_unsupervised_machine_learning.ipynb)
+##### Session 3: [Unsupervised machine learning with structured data](d_data_preprocessing_methods/8_unsupervised_machine_learning.ipynb)
 ##### Session 4: Topic modeling
 ##### Session 5: [Statistics & supervised machine learning](d_data_preprocessing_methods/9_statistics_and_supervised_machine_learning.ipynb)
