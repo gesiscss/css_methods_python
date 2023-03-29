@@ -1,23 +1,26 @@
 # Introduction to Computational Social Science methods with Python
-This repository will grow to house a full introductory course consisting of self-explanatory teaching modules in the Jupyter Notebook format. The final course will consist of five sections with 14 sessions that will allow easy exploration of data with a minimum of coding skills, but gradually lead participants to acquire more coding skills in Python. These resources are provided as part of the [Social ComQuant](https://socialcomquant.ku.edu.tr/) project.
-
-Notebooks are developed for Anaconda 2022.10 which can be downloaded [here](https://repo.anaconda.com/archive/).
+This repository will grow to house a full introductory course consisting of self-explanatory teaching modules in the Jupyter Notebook format. The final course will consist of four sections with sessions that will allow users collect, preprocess, and analyze with a minimum of coding skills, but gradually lead participants to acquire more skills in Python. These resources are provided as part of the [Social ComQuant](https://socialcomquant.ku.edu.tr/) project. Notebooks are developed for the Anaconda distribution 2022.10 which can be downloaded [here](https://repo.anaconda.com/archive/).
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gesiscss/css_methods_python/HEAD)
 
-### [Section A: Introduction](a_introduction/)
-#### [Session 1: Computing environment](a_introduction/1_computing_environment.ipynb)
-#### [Session 2: Data handling and visualization](a_introduction/2_data_handling_and_visualization.ipynb)
+#### [Section A: Introduction](a_introduction/)
+##### [Session 1: Computing infrastructure](a_introduction/1_computing_infrastructure.ipynb)
+##### [Session 2: Data management with Pandas](a_introduction/2_data_management_with_pandas.ipynb)
+##### [Session 2: Scientific computing and data visualization](a_introduction/3_scientific_computing_and_data_visualization.ipynb)
 
-### [Section B: Data collection methods](b_data_collection_methods/)
-#### [Session 3: API harvesting](b_data_collection_methods/3_api_harvesting.ipynb)
-#### [Session 4: Web scraping](b_data_collection_methods/4_web_scraping.ipynb)
+#### [Section B: Data collection methods](b_data_collection_methods/)
+##### [Session 1: API harvesting](b_data_collection_methods/3_api_harvesting.ipynb)
+##### [Session 2: Data parsing and static web scraping](b_data_collection_methods/4_web_scraping.ipynb)
+##### Session 3: Dynamic web scraping
 
-### [Section C: Data preprocessing methods](c_data_preprocessing_methods/)
-#### [Session 5: Network construction and visualization](c_data_preprocessing_methods/5_network_construction_and_visualization.ipynb)
-#### [Session 6: Natural Language Processing](c_data_preprocessing_methods/6_Natural_Language_Processing.ipynb)
+#### [Section C: Data preprocessing methods](c_data_preprocessing_methods/)
+##### [Session 1: Network construction and visualization I](c_data_preprocessing_methods/5_network_construction_and_visualization.ipynb)
+##### Session 2: Network construction and visualization II
+##### [Session 3: Natural Language Processing](c_data_preprocessing_methods/6_Natural_Language_Processing.ipynb)
 
-### Section D: Data analysis methods
-#### Session 7: Network analysis
-#### Session 8: Unsupervised machine learning
-#### Session 9: Statistics & supervised machine learning
+#### [Section D: Data analysis methods](d_data_analysis_methods/)
+##### Session 1: [Network analysis I](d_data_preprocessing_methods/7_network_analysis.ipynb)
+##### Session 2: Network analysis II
+##### Session 3: [Unsupervised machine learning with strutured data](d_data_preprocessing_methods/8_unsupervised_machine_learning.ipynb)
+##### Session 4: Topic modeling
+##### Session 5: [Statistics & supervised machine learning](d_data_preprocessing_methods/9_statistics_and_supervised_machine_learning.ipynb)
