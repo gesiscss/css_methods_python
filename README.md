@@ -17,7 +17,7 @@ This repository will grow to house a full introductory course consisting of self
 - Session 3: Dynamic web scraping
 
 **Section C**: [Data preprocessing methods](c_data_preprocessing_methods/)
-- Session 1: [Network construction and visualization I](c_data_preprocessing_methods/5_network_construction_and_visualization.ipynb)
+- Session 1: [Network construction and visualization I](c_data_preprocessing_methods/1_network_construction_and_visualization.ipynb)
 - Session 2: Network construction and visualization II
 - Session 3: [Natural Language Processing](c_data_preprocessing_methods/6_Natural_Language_Processing.ipynb)
 
