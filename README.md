@@ -18,7 +18,7 @@ This repository will grow to house a full introductory course consisting of self
 
 **Section C**: [Data preprocessing methods](c_data_preprocessing_methods/)
 - Session 1: [Network construction and visualization](c_data_preprocessing_methods/1_network_construction_and_visualization.ipynb)
-- Session 2: Multilayer and multimodal network construction
+- Session 2: [Multilayer and multimodal network construction](c_data_preprocessing_methods/2_multilayer_and_multimodal_network_construction.ipynb)
 - Session 3: [Natural Language Processing](c_data_preprocessing_methods/6_Natural_Language_Processing.ipynb)
 
 **Section D**: [Data analysis methods](d_data_analysis_methods/)
