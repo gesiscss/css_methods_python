@@ -26,4 +26,4 @@ This repository will grow to house a full introductory course consisting of self
 - Session 2: Network analysis II
 - Session 3: [Unsupervised machine learning](d_data_analysis_methods/8_unsupervised_machine_learning.ipynb)
 - Session 4: Topic modeling
-- Session 5: [Statistics & supervised machine learning](d_data_analysis_methods/9_statistics_and_supervised_machine_learning.ipynb)
+- Session 5: [Supervised machine learning](d_data_analysis_methods/5_supervised_machine_learning.ipynb)
