@@ -13,8 +13,8 @@ This repository will grow to house a full introductory course consisting of self
 
 **Section B**: [Data collection methods](b_data_collection_methods/)
 - Session 1: [API harvesting](b_data_collection_methods/1_API_harvesting.ipynb)
-- Session 2: [Data parsing and static web scraping](b_data_collection_methods/4_web_scraping.ipynb)
-- Session 3: Dynamic web scraping
+- Session 2: [Data parsing and static web scraping](b_data_collection_methods/2_data_parsing_and_static_web_scraping.ipynb)
+- Session 3: [Dynamic web scraping](b_data_collection_methods/3_dynamic_web_scraping.ipynb)
 
 **Section C**: [Data preprocessing methods](c_data_preprocessing_methods/)
 - Session 1: [Network construction and visualization](c_data_preprocessing_methods/1_network_construction_and_visualization.ipynb)
