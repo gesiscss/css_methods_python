@@ -9,6 +9,7 @@ dependencies:
   - ipywidgets=7.6.5
   - matplotlib=3.5.2
   - networkx=2.8.4
+  - nltk=3.7
   - numpy=1.21.5
   - openpyxl=3.0.10
   - pandas=1.4.4
