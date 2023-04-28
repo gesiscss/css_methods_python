@@ -22,8 +22,8 @@ This repository will grow to house a full introductory course consisting of self
 - Session 3: [Natural Language Processing](c_data_preprocessing_methods/6_Natural_Language_Processing.ipynb)
 
 **Section D**: [Data analysis methods](d_data_analysis_methods/)
-- Session 1: [Network analysis I](d_data_analysis_methods/7_network_analysis.ipynb)
-- Session 2: Network analysis II
-- Session 3: [Unsupervised machine learning](d_data_analysis_methods/8_unsupervised_machine_learning.ipynb)
-- Session 4: Topic modeling
+- Session 1: [Micro-level network analysis and community detection](d_data_analysis_methods/1_micro_level_network_analysis_and_community_detection.ipynb)
+- Session 2: [Macro-level network analysis and network modeling](d_data_analysis_methods/2_macro_level_network_analysis_and_network_modeling.ipynb)
+- Session 3: [Unsupervised machine learning](d_data_analysis_methods/3_unsupervised_machine_learning.ipynb)
+- Session 4: [Topic modeling](d_data_analysis_methods/4_topic_modeling.ipynb)
 - Session 5: [Supervised machine learning](d_data_analysis_methods/5_supervised_machine_learning.ipynb)
