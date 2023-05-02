@@ -9,6 +9,7 @@ dependencies:
   - ipywidgets=7.6.5
   - matplotlib=3.5.2
   - networkx=2.8.4
+  - nltk=3.7
   - numpy=1.21.5
   - openpyxl=3.0.10
   - pandas=1.4.4
@@ -30,6 +31,7 @@ dependencies:
     - factor-analyzer==0.4.1
     - mwparserfromhell==0.6.4
     - powerlaw==1.5
+    - pyldavis==3.4.1
     - pywikibot==8.0.2
     - wikipedia==1.4.0
     - wikitextparser==0.51.1
