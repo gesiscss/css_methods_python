@@ -7,9 +7,9 @@ This repository houses a full introductory course consisting of self-explanatory
 ## Course structure
 
 **Section A**: [Introduction](a_introduction/)
-- Session 1: [Computing infrastructure](a_introduction/1_computing_infrastructure.ipynb)
-- Session 2: [Data management with Pandas](a_introduction/2_data_management_with_pandas.ipynb)
-- Session 3: [Scientific computing and data visualization](a_introduction/3_scientific_computing_and_data_visualization.ipynb)
+- Session 1: [Computing infrastructure](a_introduction/1_computing_infrastructure.ipynb) (Ready for testing)
+- Session 2: [Data management with Pandas](a_introduction/2_data_management_with_pandas.ipynb) (Ready for testing)
+- Session 3: [Scientific computing and data visualization](a_introduction/3_scientific_computing_and_data_visualization.ipynb) (Ready for testing)
 
 **Section B**: [Data collection methods](b_data_collection_methods/)
 - Session 1: [API harvesting](b_data_collection_methods/1_API_harvesting.ipynb)
@@ -17,13 +17,13 @@ This repository houses a full introductory course consisting of self-explanatory
 - Session 3: [Dynamic web scraping](b_data_collection_methods/3_dynamic_web_scraping.ipynb)
 
 **Section C**: [Data preprocessing methods](c_data_preprocessing_methods/)
-- Session 1: [Network construction and visualization](c_data_preprocessing_methods/1_network_construction_and_visualization.ipynb)
-- Session 2: [Multilayer and multimodal network construction](c_data_preprocessing_methods/2_multilayer_and_multimodal_network_construction.ipynb)
-- Session 3: [Natural Language Processing](c_data_preprocessing_methods/3_natural_language_processing.ipynb)
+- Session 1: [Network construction and visualization](c_data_preprocessing_methods/1_network_construction_and_visualization.ipynb) (Ready for testing)
+- Session 2: [Multilayer and multimodal network construction](c_data_preprocessing_methods/2_multilayer_and_multimodal_network_construction.ipynb) (Ready for testing)
+- Session 3: [Natural Language Processing](c_data_preprocessing_methods/3_natural_language_processing.ipynb) (Ready for testing)
 
 **Section D**: [Data analysis methods](d_data_analysis_methods/)
-- Session 1: [Micro-level network analysis and community detection](d_data_analysis_methods/1_micro_level_network_analysis_and_community_detection.ipynb)
-- Session 2: [Macro-level network analysis and network modeling](d_data_analysis_methods/2_macro_level_network_analysis_and_network_modeling.ipynb)
+- Session 1: [Micro-level network analysis and community detection](d_data_analysis_methods/1_micro_level_network_analysis_and_community_detection.ipynb) (Ready for testing)
+- Session 2: [Macro-level network analysis and network modeling](d_data_analysis_methods/2_macro_level_network_analysis_and_network_modeling.ipynb) (Ready for testing)
 - Session 3: [Unsupervised machine learning](d_data_analysis_methods/3_unsupervised_machine_learning.ipynb)
-- Session 4: [Topic modeling](d_data_analysis_methods/4_topic_modeling.ipynb)
+- Session 4: [Topic modeling](d_data_analysis_methods/4_topic_modeling.ipynb) (Ready for testing)
 - Session 5: [Supervised machine learning](d_data_analysis_methods/5_supervised_machine_learning.ipynb)
