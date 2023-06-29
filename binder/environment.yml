@@ -36,3 +36,4 @@ dependencies:
     - wikipedia==1.4.0
     - wikitextparser==0.51.1
     - twarc==2.12.0
+    - wikitables==0.5.5
