@@ -31,7 +31,6 @@ dependencies:
     - factor-analyzer==0.4.1
     - mwparserfromhell==0.6.4
     - powerlaw==1.5
-    - pyldavis==3.4.1
     - pywikibot==8.0.2
     - wikipedia==1.4.0
     - wikitextparser==0.51.1
