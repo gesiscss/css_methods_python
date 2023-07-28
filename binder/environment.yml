@@ -1,4 +1,4 @@
-name: css_methods_python_env_3
+name: css_methods_python_env
 channels:
   - defaults
   - conda-forge
