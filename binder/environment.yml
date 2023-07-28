@@ -1,4 +1,4 @@
-name: css_methods_python_env
+name: css_methods_python_env_3
 channels:
   - defaults
   - conda-forge
@@ -26,13 +26,14 @@ dependencies:
   - statsmodels=0.13.2
   - textacy=0.11.0
   - xlsxwriter=3.0.3
+  - emoji=2.2.0
+  - powerlaw=1.4.6
+  - wikipedia=1.4.0
+  - twarc=2.12.0
+  - factor-analyzer=0.4.1
+  - pyldavis=3.4.1
   - pip:
-    - emoji==2.2.0
-    - factor-analyzer==0.4.1
     - mwparserfromhell==0.6.4
-    - powerlaw==1.5
     - pywikibot==8.0.2
-    - wikipedia==1.4.0
     - wikitextparser==0.51.1
-    - twarc==2.12.0
     - wikitables==0.5.5
