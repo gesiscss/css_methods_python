@@ -4,6 +4,8 @@ channels:
   - conda-forge
 dependencies:
   - beautifulsoup4=4.11.1
+  - emoji=2.2.0
+  - factor-analyzer=0.4.1
   - feedparser=6.0.8
   - gensim=4.1.2
   - ipywidgets=7.7.2
@@ -14,7 +16,9 @@ dependencies:
   - openpyxl=3.0.10
   - pandas=1.4.4
   - pip=22.2.2
+  - powerlaw=1.4.6
   - pygraphviz=1.9
+  - pyldavis=3.4.1
   - python=3.9.13
   - requests=2.28.1
   - scikit-learn=1.0.2
@@ -25,15 +29,10 @@ dependencies:
   - sqlalchemy=1.4.39
   - statsmodels=0.13.2
   - textacy=0.11.0
-  - xlsxwriter=3.0.3
-  - emoji=2.2.0
-  - powerlaw=1.4.6
   - wikipedia=1.4.0
-  - twarc=2.12.0
-  - factor-analyzer=0.4.1
-  - pyldavis=3.4.1
+  - xlsxwriter=3.0.3
   - pip:
     - mwparserfromhell==0.6.4
     - pywikibot==8.0.2
-    - wikitextparser==0.51.1
     - wikitables==0.5.5
+    - wikitextparser==0.51.1
