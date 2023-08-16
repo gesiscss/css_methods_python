@@ -8,11 +8,11 @@ This repository houses a full introductory course consisting of self-explanatory
 
 **Section A**: [Introduction](a_introduction/)
 - Session 1: [Computing infrastructure](a_introduction/1_computing_infrastructure.ipynb) (Ready for testing)
-- Session 2: [Data management with Pandas](a_introduction/2_data_management_with_pandas.ipynb) (Ready for testing)
+- Session 2: [Data management and relational databases](a_introduction/2_data_management_and_relational_databases.ipynb) (Ready for testing)
 - Session 3: [Scientific computing and data visualization](a_introduction/3_scientific_computing_and_data_visualization.ipynb) (Ready for testing)
 
 **Section B**: [Data collection methods](b_data_collection_methods/)
-- Session 1: [API harvesting](b_data_collection_methods/1_API_harvesting.ipynb)
+- Session 1: [API harvesting](b_data_collection_methods/1_api_harvesting.ipynb)
 - Session 2: [Data parsing and static web scraping](b_data_collection_methods/2_data_parsing_and_static_web_scraping.ipynb)
 - Session 3: [Dynamic web scraping](b_data_collection_methods/3_dynamic_web_scraping.ipynb)
 
