@@ -1,6 +1,15 @@
 # Introduction to Computational Social Science methods with Python
+
+This repository contains a full introductory course to CSS methods with Python. Teaching materials meet the criteria of a gradable university course, are fully online, self-explanatory, and freely available: the materials combine coding tutorials with recommended readings, specific teaching lessons, and experience-based guidelines; they are housed, here, in a public GitHub repository, which means, everybody can study them; they have the form of Jupyter Notebooks, which means, they have the look and feel of a manuscript, yet, they contain Python code that is fully executable in a browser window, potentially without the need to locally install Python; and they are available under a Creative Commons license which allows you to freely share and adapt them. The course consists of sessions that gradually lead participants to acquire more skills in Python.
+
+## Syllabus
+
+Read the syllabus [here](css_methods_python_syllabus.pdf).
+
+## Installation
+
 <img src="https://github.com/gesiscss/css_methods_python/blob/main/a_introduction/images/anaconda_distribution.png" height="100" align="right"></a>
-This repository houses a full introductory course consisting of self-explanatory teaching modules in the Jupyter Notebook format. The course consists of four sections with sessions that will allow users to collect, preprocess, and analyze data with a minimum of coding skills, but gradually lead participants to acquire more skills in Python. These resources are provided as part of the [Social ComQuant](https://socialcomquant.ku.edu.tr/) project. Notebooks are developed for the Anaconda distribution 2022.10 which can be downloaded [here](https://repo.anaconda.com/archive/). For a complete guide how to set up your computing infrastructure and execute the course materials locally or in the cloud, please consult [Session A1: Computing infrastructure](a_introduction/1_computing_infrastructure.ipynb).
+Notebooks are developed for the Anaconda distribution 2022.10 which can be downloaded [here](https://repo.anaconda.com/archive/). For a complete guide how to set up your computing infrastructure and execute the course materials locally or in the cloud, please consult [Session A1: Computing infrastructure](a_introduction/1_computing_infrastructure.ipynb). Or click on this button and execute the materials in the Binder cloud:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/css_methods_python/HEAD)
 
@@ -27,3 +36,7 @@ This repository houses a full introductory course consisting of self-explanatory
 - Session 3: [Unsupervised machine learning](d_data_analysis_methods/3_unsupervised_machine_learning.ipynb)
 - Session 4: [Topic modeling](d_data_analysis_methods/4_topic_modeling.ipynb) (Ready for testing)
 - Session 5: [Supervised machine learning](d_data_analysis_methods/5_supervised_machine_learning.ipynb)
+
+## Acknowledgement
+
+These resources have been developed as part of the [Social ComQuant](https://socialcomquant.ku.edu.tr/) project which had been funded as a twinning project among Koç University (Istanbul, Turkey), GESIS – Leibniz Institute for the Social Sciences (Cologne, Germany), and the ISI Foundation (Torino, Italy) under the European Commission's Horizon 2020 funding line.
