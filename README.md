@@ -6,7 +6,7 @@ This repository contains a full introductory course to CSS methods with Python. 
 
 Read the syllabus [here](css_methods_python_syllabus.pdf).
 
-## Installation
+## Execution
 
 <img src="https://github.com/gesiscss/css_methods_python/blob/main/a_introduction/images/anaconda_distribution.png" height="100" align="right"></a>
 Notebooks are developed for the Anaconda distribution 2022.10 which can be downloaded [here](https://repo.anaconda.com/archive/). For a complete guide how to set up your computing infrastructure and execute the course materials locally or in the cloud, please consult [Session A1: Computing infrastructure](a_introduction/1_computing_infrastructure.ipynb). Or click on this button and execute the materials in the Binder cloud:
