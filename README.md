@@ -4,6 +4,8 @@ This repository contains a full introductory course to CSS methods with Python. 
 
 ## Syllabus
 
+The course consists of four sections. The first section teaches how to set up a computing infrastructure and conveys basic data management and scientific computing skills. The second section teaches students how to collect data using dedicated Python packages for using Application Programming Interfaces (APIs) and web scraping. The third section focuses on data preprocessing methods from network analysis and NLP and includes applications of Large Language Models (LLMs). The fourth section is about data analysis methods and goes into depth with network analysis and modeling, unsupervised and supervised ML, as well as topic modeling. Some datasets are repeatedly used throughout the course, among them a corpus of tweets on the topic of COVID (TweetsCOV19) from May 2020, social networks from the Copenhagen Networks Study (CNS), and the Varieties of Democracy (V-Dem) dataset on countries and principles of democracy. Whenever possible, sessions are interlinked and built on top of each other.
+
 Read the syllabus [here](css_methods_python_syllabus.pdf).
 
 ## Execution
