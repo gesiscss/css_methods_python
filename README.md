@@ -39,6 +39,14 @@ Notebooks are developed for the Anaconda distribution 2022.10 which can be downl
 - Session 4: [Topic modeling](d_data_analysis_methods/4_topic_modeling.ipynb) (Ready for testing)
 - Session 5: [Supervised machine learning](d_data_analysis_methods/5_supervised_machine_learning.ipynb)
 
+## Permanent call for contribution
+
+This course is initialized by 14 sessions, but more sessions can be added. For this, we invite contributions. Before starting to develop, you should contact us. When you develop, please use [this template](template.ipynb). Why should you contribute? Because science should be open, and we believe that this course has a future.
+
+## Who are we
+
+This course is edited by [Haiko Lietz](https://github.com/haikolietz) and [N. Gizem Bacaksizlar Turbic](https://github.com/ngizembacaksizlar). Contact us [here](mailto:haiko.lietz@gesis.org).
+
 ## Acknowledgement
 
-These resources have been developed as part of the [Social ComQuant](https://socialcomquant.ku.edu.tr/) project which had been funded as a twinning project among Koç University (Istanbul, Turkey), GESIS – Leibniz Institute for the Social Sciences (Cologne, Germany), and the ISI Foundation (Torino, Italy) under the European Commission's Horizon 2020 funding line.
+The initial 14 sessions have been developed as part of the [Social ComQuant](https://socialcomquant.ku.edu.tr/) project which had been funded until 2023 as a twinning project among Koç University (Istanbul, Turkey), GESIS – Leibniz Institute for the Social Sciences (Cologne, Germany), and the ISI Foundation (Torino, Italy) under the European Commission's Horizon 2020 funding line.
