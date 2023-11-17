@@ -49,5 +49,5 @@ This course is edited by [Haiko Lietz](https://github.com/haikolietz) and [N. Gi
 
 ## Acknowledgement
 
-<img src="https://github.com/gesiscss/css_methods_python/blob/main/images/scq.png" align="right"></a>
+<img src="https://github.com/gesiscss/css_methods_python/blob/main/images/scq.png" height="150" align="right"></a>
 The initial 14 sessions have been developed as part of the [Social ComQuant](https://socialcomquant.ku.edu.tr/) project which had been funded until 2023 as a twinning project among Koç University (Istanbul, Turkey), GESIS – Leibniz Institute for the Social Sciences (Cologne, Germany), and the ISI Foundation (Torino, Italy) under the European Commission's Horizon 2020 funding line.
