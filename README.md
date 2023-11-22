@@ -45,7 +45,7 @@ This course is initialized by 14 sessions, but more sessions can be added. For t
 
 ## Who are we
 
-This course is edited by [Haiko Lietz](https://github.com/haikolietz) and [N. Gizem Bacaksizlar Turbic](https://github.com/ngizembacaksizlar). Contact us [here](mailto:haiko.lietz@gesis.org).
+This course is edited by [Haiko Lietz](https://github.com/haikolietz), Sinemis Temel, [M. Fuat Kina](https://github.com/fuatkina), and [N. Gizem Bacaksizlar Turbic](https://github.com/ngizembacaksizlar). Contact us [here](mailto:haiko.lietz@gesis.org).
 
 ## Acknowledgement
 
